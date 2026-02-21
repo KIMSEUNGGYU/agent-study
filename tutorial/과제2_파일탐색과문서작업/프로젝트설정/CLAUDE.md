@@ -1,4 +1,4 @@
 # Project Rules
-- Always respond in English
+- Always respond in Korean
 - Use formal tone
 - Date format: MM/DD/YYYY
