@@ -1,3 +1,7 @@
+# Dependencies
+node_modules/
+package-lock.json
+
 # Skills (npx skills add로 설치된 파일)
 .agents/
 .agent/
